@@ -1,0 +1,13 @@
+﻿service_id,service_name,service_group
+S001,Email & Collaboration,Productivity
+S002,Network & Connectivity,Infrastructure
+S003,Business Applications,Applications
+S004,End User Devices,Workplace
+S005,Identity & Access,Security
+S006,Cloud Services,Infrastructure
+S007,Printing Services,Workplace
+S008,ERP Platform,Applications
+S009,VPN & Remote Access,Security
+S010,Database Services,Applications
+S011,Telephony & Meetings,Productivity
+S012,File Storage,Infrastructure

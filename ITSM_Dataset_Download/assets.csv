@@ -1,0 +1,501 @@
+﻿asset_id,asset_type,operating_system,asset_age_years
+A00001,Laptop,iOS,0
+A00002,Desktop,Windows 11,2
+A00003,Laptop,macOS,4
+A00004,Mobile Device,Windows 11,5
+A00005,Laptop,Linux,3
+A00006,Laptop,macOS,0
+A00007,Laptop,Linux,6
+A00008,Desktop,Windows 11,7
+A00009,Laptop,Windows 11,7
+A00010,Laptop,macOS,5
+A00011,Server,Windows 11,3
+A00012,Laptop,Windows 11,7
+A00013,Laptop,Windows 11,3
+A00014,Laptop,iOS,1
+A00015,Laptop,Windows 10,6
+A00016,Laptop,Windows 10,2
+A00017,Desktop,macOS,7
+A00018,Laptop,Windows 11,2
+A00019,Server,Windows 11,6
+A00020,Network Device,Windows 11,4
+A00021,Laptop,Windows 10,3
+A00022,Laptop,Windows 11,2
+A00023,Laptop,Linux,6
+A00024,Desktop,macOS,0
+A00025,Laptop,Windows 11,3
+A00026,Server,Windows 10,2
+A00027,Printer,Windows 11,4
+A00028,Server,Android,2
+A00029,Desktop,Linux,5
+A00030,Network Device,iOS,3
+A00031,Laptop,Windows 11,1
+A00032,Laptop,Windows 11,1
+A00033,Laptop,Windows 11,5
+A00034,Network Device,Windows 11,2
+A00035,Desktop,Windows 11,2
+A00036,Server,Windows 11,5
+A00037,Laptop,Android,2
+A00038,Network Device,Windows 11,3
+A00039,Desktop,Windows 11,1
+A00040,Desktop,macOS,2
+A00041,Network Device,Windows 10,5
+A00042,Laptop,macOS,4
+A00043,Laptop,Windows 10,7
+A00044,Desktop,Linux,6
+A00045,Laptop,Windows 10,0
+A00046,Laptop,Windows 11,3
+A00047,Laptop,Windows 10,2
+A00048,Laptop,Windows 11,4
+A00049,Server,Windows 11,2
+A00050,Desktop,Windows 11,7
+A00051,Laptop,Windows 11,2
+A00052,Laptop,macOS,4
+A00053,Desktop,Windows 11,0
+A00054,Mobile Device,Windows 11,7
+A00055,Network Device,Windows 11,7
+A00056,Network Device,Linux,6
+A00057,Laptop,Windows 11,2
+A00058,Laptop,Windows 10,0
+A00059,Desktop,Linux,5
+A00060,Desktop,Windows 11,3
+A00061,Desktop,macOS,7
+A00062,Mobile Device,Windows 11,5
+A00063,Desktop,Windows 11,4
+A00064,Laptop,Windows 10,7
+A00065,Laptop,Linux,6
+A00066,Laptop,Windows 11,3
+A00067,Laptop,Windows 10,0
+A00068,Laptop,Windows 11,0
+A00069,Printer,Windows 10,3
+A00070,Laptop,Windows 10,4
+A00071,Laptop,Windows 10,0
+A00072,Desktop,Windows 10,1
+A00073,Printer,Windows 11,5
+A00074,Laptop,Windows 10,6
+A00075,Server,Windows 10,0
+A00076,Network Device,Windows 10,4
+A00077,Desktop,Windows 11,0
+A00078,Mobile Device,Windows 11,5
+A00079,Laptop,Windows 11,6
+A00080,Network Device,Windows 11,6
+A00081,Laptop,Windows 11,4
+A00082,Network Device,Windows 11,5
+A00083,Desktop,macOS,7
+A00084,Laptop,Windows 11,4
+A00085,Laptop,macOS,3
+A00086,Mobile Device,Windows 11,6
+A00087,Desktop,macOS,4
+A00088,Laptop,Windows 11,6
+A00089,Printer,Windows 11,4
+A00090,Server,Windows 10,6
+A00091,Desktop,iOS,0
+A00092,Desktop,Windows 11,0
+A00093,Laptop,Windows 11,0
+A00094,Printer,Windows 10,4
+A00095,Laptop,macOS,5
+A00096,Server,Windows 11,1
+A00097,Laptop,Windows 11,1
+A00098,Desktop,Windows 11,6
+A00099,Laptop,iOS,6
+A00100,Laptop,Windows 11,5
+A00101,Printer,Windows 11,3
+A00102,Desktop,Android,3
+A00103,Desktop,Windows 11,0
+A00104,Network Device,Windows 11,1
+A00105,Network Device,Windows 11,7
+A00106,Server,Windows 11,2
+A00107,Laptop,Windows 11,5
+A00108,Desktop,Windows 11,5
+A00109,Server,macOS,2
+A00110,Laptop,macOS,1
+A00111,Laptop,Windows 11,5
+A00112,Server,Windows 10,0
+A00113,Desktop,Windows 11,3
+A00114,Desktop,iOS,7
+A00115,Network Device,Windows 11,5
+A00116,Desktop,Windows 10,6
+A00117,Desktop,Windows 11,0
+A00118,Laptop,Windows 10,1
+A00119,Laptop,Windows 11,2
+A00120,Laptop,macOS,2
+A00121,Printer,Windows 11,1
+A00122,Server,Linux,7
+A00123,Laptop,Windows 11,1
+A00124,Laptop,macOS,5
+A00125,Server,Linux,4
+A00126,Laptop,Android,4
+A00127,Desktop,Windows 11,1
+A00128,Desktop,Windows 11,2
+A00129,Mobile Device,Windows 11,4
+A00130,Laptop,Windows 11,2
+A00131,Mobile Device,Windows 10,5
+A00132,Laptop,Android,0
+A00133,Desktop,Android,0
+A00134,Laptop,Windows 11,5
+A00135,Desktop,Windows 10,4
+A00136,Desktop,Linux,0
+A00137,Laptop,iOS,7
+A00138,Laptop,Windows 11,0
+A00139,Laptop,Windows 11,7
+A00140,Laptop,Linux,5
+A00141,Laptop,Windows 11,7
+A00142,Network Device,Windows 11,7
+A00143,Laptop,Android,2
+A00144,Server,Android,6
+A00145,Network Device,Linux,1
+A00146,Laptop,macOS,3
+A00147,Mobile Device,Windows 11,1
+A00148,Server,Windows 11,3
+A00149,Mobile Device,Windows 11,6
+A00150,Desktop,Windows 10,3
+A00151,Desktop,Windows 11,0
+A00152,Laptop,Windows 10,2
+A00153,Desktop,Windows 11,6
+A00154,Network Device,macOS,4
+A00155,Network Device,Windows 11,4
+A00156,Laptop,Windows 11,3
+A00157,Mobile Device,Windows 11,2
+A00158,Laptop,Windows 11,4
+A00159,Server,Linux,5
+A00160,Laptop,Windows 11,7
+A00161,Network Device,Windows 11,4
+A00162,Server,macOS,7
+A00163,Laptop,Windows 10,6
+A00164,Laptop,Windows 11,0
+A00165,Server,Windows 11,3
+A00166,Laptop,Windows 11,3
+A00167,Desktop,Windows 10,0
+A00168,Server,Windows 11,1
+A00169,Desktop,Windows 11,6
+A00170,Laptop,Windows 11,2
+A00171,Desktop,Windows 10,1
+A00172,Laptop,Windows 11,2
+A00173,Network Device,Linux,2
+A00174,Laptop,Windows 11,1
+A00175,Laptop,Windows 10,0
+A00176,Laptop,Windows 11,6
+A00177,Network Device,Windows 11,6
+A00178,Laptop,Windows 11,3
+A00179,Server,macOS,4
+A00180,Mobile Device,Linux,7
+A00181,Server,Windows 11,6
+A00182,Network Device,Windows 11,0
+A00183,Server,Linux,7
+A00184,Network Device,Windows 11,0
+A00185,Laptop,Windows 11,0
+A00186,Printer,Windows 11,3
+A00187,Desktop,Windows 10,5
+A00188,Desktop,Windows 10,0
+A00189,Server,Windows 10,2
+A00190,Network Device,iOS,2
+A00191,Mobile Device,Windows 11,3
+A00192,Desktop,Windows 11,7
+A00193,Desktop,Windows 11,2
+A00194,Laptop,Windows 11,1
+A00195,Laptop,Windows 11,0
+A00196,Laptop,Windows 11,1
+A00197,Laptop,Windows 11,1
+A00198,Laptop,Windows 10,4
+A00199,Printer,Windows 11,3
+A00200,Desktop,Windows 11,3
+A00201,Network Device,Windows 10,6
+A00202,Desktop,Windows 10,4
+A00203,Laptop,macOS,1
+A00204,Laptop,macOS,3
+A00205,Laptop,Windows 10,2
+A00206,Network Device,Windows 11,6
+A00207,Laptop,Windows 11,2
+A00208,Desktop,Windows 10,1
+A00209,Network Device,Windows 11,5
+A00210,Network Device,Windows 11,3
+A00211,Laptop,Windows 11,0
+A00212,Laptop,Windows 11,5
+A00213,Laptop,Windows 11,1
+A00214,Laptop,Windows 11,6
+A00215,Laptop,macOS,6
+A00216,Desktop,iOS,2
+A00217,Server,Windows 11,4
+A00218,Desktop,iOS,4
+A00219,Mobile Device,Windows 11,5
+A00220,Laptop,iOS,0
+A00221,Server,iOS,2
+A00222,Desktop,Windows 11,1
+A00223,Server,macOS,5
+A00224,Network Device,Android,0
+A00225,Laptop,Linux,4
+A00226,Laptop,Android,5
+A00227,Laptop,Windows 10,7
+A00228,Desktop,Windows 11,2
+A00229,Network Device,Linux,0
+A00230,Laptop,Windows 10,5
+A00231,Printer,Windows 10,0
+A00232,Desktop,Windows 11,0
+A00233,Laptop,Windows 10,7
+A00234,Laptop,Windows 11,6
+A00235,Mobile Device,macOS,5
+A00236,Mobile Device,Windows 11,6
+A00237,Desktop,Windows 10,0
+A00238,Laptop,Linux,0
+A00239,Printer,Windows 11,2
+A00240,Laptop,Windows 11,0
+A00241,Network Device,Windows 11,7
+A00242,Laptop,Android,0
+A00243,Laptop,macOS,4
+A00244,Desktop,Windows 11,6
+A00245,Desktop,Windows 11,5
+A00246,Desktop,Windows 11,1
+A00247,Desktop,Windows 11,3
+A00248,Network Device,iOS,4
+A00249,Desktop,macOS,6
+A00250,Desktop,Windows 11,3
+A00251,Desktop,Linux,2
+A00252,Laptop,Windows 11,6
+A00253,Desktop,Linux,7
+A00254,Laptop,Windows 11,3
+A00255,Mobile Device,Windows 10,0
+A00256,Laptop,iOS,4
+A00257,Network Device,Windows 11,7
+A00258,Desktop,Windows 10,7
+A00259,Server,Android,3
+A00260,Desktop,Windows 11,1
+A00261,Laptop,Windows 11,4
+A00262,Server,Windows 10,6
+A00263,Mobile Device,Windows 11,7
+A00264,Printer,Windows 11,0
+A00265,Desktop,Windows 11,2
+A00266,Mobile Device,macOS,3
+A00267,Server,Windows 11,0
+A00268,Mobile Device,Windows 11,7
+A00269,Laptop,Linux,0
+A00270,Mobile Device,Windows 11,5
+A00271,Mobile Device,Linux,7
+A00272,Network Device,Windows 11,5
+A00273,Laptop,iOS,6
+A00274,Desktop,Windows 10,2
+A00275,Server,Windows 11,6
+A00276,Desktop,Linux,3
+A00277,Printer,Windows 11,0
+A00278,Desktop,Windows 11,2
+A00279,Laptop,Windows 11,2
+A00280,Printer,Windows 10,4
+A00281,Laptop,Windows 11,2
+A00282,Laptop,Windows 11,3
+A00283,Mobile Device,Windows 11,3
+A00284,Printer,Windows 11,2
+A00285,Server,Windows 11,5
+A00286,Laptop,Windows 11,2
+A00287,Laptop,Windows 11,6
+A00288,Network Device,Windows 11,2
+A00289,Laptop,Windows 10,6
+A00290,Laptop,Windows 11,2
+A00291,Laptop,Windows 10,0
+A00292,Desktop,Windows 11,1
+A00293,Server,Windows 11,6
+A00294,Printer,Windows 11,6
+A00295,Mobile Device,Windows 11,1
+A00296,Laptop,Windows 11,4
+A00297,Laptop,macOS,4
+A00298,Desktop,Windows 11,1
+A00299,Laptop,Windows 11,3
+A00300,Laptop,Windows 10,5
+A00301,Laptop,Windows 11,7
+A00302,Laptop,Windows 11,6
+A00303,Desktop,Windows 11,0
+A00304,Mobile Device,Windows 11,1
+A00305,Laptop,Windows 11,3
+A00306,Desktop,macOS,1
+A00307,Printer,iOS,4
+A00308,Printer,Windows 11,0
+A00309,Server,Windows 10,0
+A00310,Desktop,macOS,0
+A00311,Server,Windows 11,2
+A00312,Laptop,macOS,6
+A00313,Laptop,Windows 10,1
+A00314,Laptop,iOS,7
+A00315,Desktop,Android,2
+A00316,Laptop,Windows 11,0
+A00317,Laptop,Windows 11,2
+A00318,Printer,Windows 11,5
+A00319,Laptop,Windows 11,0
+A00320,Laptop,Windows 11,0
+A00321,Laptop,Android,6
+A00322,Desktop,Windows 11,4
+A00323,Laptop,Windows 11,2
+A00324,Laptop,Linux,6
+A00325,Laptop,Windows 11,6
+A00326,Printer,Windows 11,2
+A00327,Network Device,Android,4
+A00328,Desktop,Windows 11,0
+A00329,Mobile Device,Windows 11,2
+A00330,Server,Windows 11,4
+A00331,Network Device,iOS,1
+A00332,Desktop,Windows 11,7
+A00333,Server,Windows 11,7
+A00334,Server,Windows 11,2
+A00335,Printer,Windows 11,3
+A00336,Desktop,iOS,1
+A00337,Laptop,Windows 11,4
+A00338,Laptop,Android,0
+A00339,Desktop,Windows 11,3
+A00340,Desktop,Windows 11,4
+A00341,Laptop,Linux,4
+A00342,Desktop,Windows 11,4
+A00343,Desktop,Windows 11,1
+A00344,Server,Linux,6
+A00345,Laptop,Windows 11,5
+A00346,Laptop,Windows 11,6
+A00347,Printer,Android,3
+A00348,Server,Windows 11,7
+A00349,Network Device,Windows 11,3
+A00350,Server,Windows 11,6
+A00351,Server,Windows 11,1
+A00352,Laptop,Windows 11,1
+A00353,Laptop,Windows 10,4
+A00354,Laptop,Windows 11,4
+A00355,Desktop,Windows 10,5
+A00356,Network Device,Windows 11,2
+A00357,Laptop,Windows 11,6
+A00358,Desktop,Windows 11,2
+A00359,Laptop,Windows 10,4
+A00360,Laptop,Windows 11,7
+A00361,Laptop,Windows 11,4
+A00362,Laptop,Linux,5
+A00363,Network Device,Windows 10,7
+A00364,Laptop,Windows 11,7
+A00365,Server,Linux,3
+A00366,Mobile Device,Windows 11,3
+A00367,Laptop,Windows 11,1
+A00368,Laptop,Windows 11,4
+A00369,Server,Windows 11,7
+A00370,Laptop,Windows 11,3
+A00371,Server,macOS,2
+A00372,Laptop,Windows 11,0
+A00373,Mobile Device,macOS,3
+A00374,Server,iOS,1
+A00375,Laptop,Windows 10,7
+A00376,Laptop,Windows 10,4
+A00377,Network Device,Windows 10,1
+A00378,Laptop,Android,0
+A00379,Desktop,Windows 11,6
+A00380,Desktop,Windows 11,7
+A00381,Laptop,Windows 11,6
+A00382,Printer,Windows 11,0
+A00383,Printer,Windows 11,0
+A00384,Laptop,Windows 10,1
+A00385,Server,Windows 11,6
+A00386,Laptop,iOS,6
+A00387,Laptop,Windows 11,6
+A00388,Desktop,Windows 11,0
+A00389,Network Device,Windows 11,1
+A00390,Laptop,Windows 11,7
+A00391,Laptop,Windows 11,7
+A00392,Desktop,Windows 11,5
+A00393,Server,Windows 11,0
+A00394,Laptop,Windows 11,0
+A00395,Laptop,Windows 11,0
+A00396,Printer,Windows 11,5
+A00397,Laptop,Windows 11,6
+A00398,Laptop,Windows 11,5
+A00399,Laptop,Windows 11,2
+A00400,Laptop,Windows 11,6
+A00401,Desktop,Windows 11,0
+A00402,Server,macOS,6
+A00403,Mobile Device,Android,7
+A00404,Mobile Device,iOS,5
+A00405,Network Device,Windows 11,7
+A00406,Laptop,Windows 11,4
+A00407,Laptop,Windows 11,3
+A00408,Network Device,macOS,2
+A00409,Laptop,macOS,7
+A00410,Printer,Linux,5
+A00411,Printer,Linux,1
+A00412,Laptop,Windows 11,7
+A00413,Desktop,macOS,0
+A00414,Laptop,macOS,4
+A00415,Laptop,Windows 11,1
+A00416,Desktop,iOS,5
+A00417,Laptop,Windows 11,3
+A00418,Printer,Android,3
+A00419,Server,macOS,5
+A00420,Server,Windows 11,6
+A00421,Laptop,Windows 10,3
+A00422,Laptop,Windows 11,7
+A00423,Laptop,macOS,3
+A00424,Laptop,macOS,1
+A00425,Network Device,Windows 10,0
+A00426,Laptop,Linux,1
+A00427,Laptop,Windows 11,5
+A00428,Server,Windows 11,4
+A00429,Laptop,Windows 11,2
+A00430,Laptop,Windows 11,3
+A00431,Laptop,Windows 11,6
+A00432,Mobile Device,Windows 11,4
+A00433,Printer,Windows 11,0
+A00434,Laptop,Windows 11,0
+A00435,Server,Linux,3
+A00436,Server,Windows 11,3
+A00437,Server,Linux,6
+A00438,Laptop,Windows 11,4
+A00439,Laptop,Windows 11,6
+A00440,Server,Windows 11,4
+A00441,Laptop,Windows 11,2
+A00442,Desktop,Windows 11,5
+A00443,Printer,Windows 11,4
+A00444,Laptop,Windows 11,5
+A00445,Printer,Windows 11,1
+A00446,Network Device,Windows 10,5
+A00447,Printer,Windows 11,2
+A00448,Desktop,macOS,6
+A00449,Server,Windows 11,6
+A00450,Desktop,Android,4
+A00451,Printer,macOS,7
+A00452,Server,Android,4
+A00453,Printer,Linux,0
+A00454,Laptop,Windows 11,4
+A00455,Laptop,Windows 11,6
+A00456,Laptop,Windows 11,0
+A00457,Desktop,macOS,0
+A00458,Desktop,Windows 10,2
+A00459,Desktop,Windows 11,6
+A00460,Laptop,iOS,4
+A00461,Printer,Windows 11,7
+A00462,Server,Windows 10,6
+A00463,Laptop,Windows 10,4
+A00464,Printer,Windows 11,5
+A00465,Mobile Device,Windows 10,2
+A00466,Desktop,macOS,0
+A00467,Laptop,Windows 11,3
+A00468,Printer,Windows 11,4
+A00469,Network Device,Windows 11,1
+A00470,Printer,Windows 10,1
+A00471,Server,Windows 11,0
+A00472,Network Device,iOS,5
+A00473,Laptop,Linux,7
+A00474,Mobile Device,Windows 11,6
+A00475,Desktop,Windows 11,3
+A00476,Network Device,Windows 10,4
+A00477,Laptop,Windows 10,7
+A00478,Laptop,Windows 11,4
+A00479,Server,Windows 11,2
+A00480,Laptop,Windows 11,2
+A00481,Printer,Android,5
+A00482,Laptop,Windows 11,3
+A00483,Network Device,Linux,6
+A00484,Server,Windows 11,6
+A00485,Laptop,iOS,0
+A00486,Printer,Windows 11,5
+A00487,Laptop,Windows 11,2
+A00488,Desktop,iOS,4
+A00489,Mobile Device,iOS,2
+A00490,Server,Windows 11,2
+A00491,Laptop,Windows 11,2
+A00492,Laptop,Windows 11,0
+A00493,Mobile Device,Windows 11,6
+A00494,Desktop,Windows 11,1
+A00495,Desktop,Linux,3
+A00496,Laptop,Windows 11,1
+A00497,Laptop,Windows 10,1
+A00498,Server,Windows 11,2
+A00499,Laptop,Windows 11,7
+A00500,Laptop,Windows 10,7

@@ -1,0 +1,31 @@
+﻿technician_id,technician_name,support_team,seniority
+T001,Alex Morgan,Service Desk,Intermediate
+T002,Sofia Ramirez,Infrastructure,Intermediate
+T003,Daniel Torres,Applications,Senior
+T004,Valeria Cruz,Security,Intermediate
+T005,Mateo Garcia,Workplace,Junior
+T006,Camila Flores,Service Desk,Senior
+T007,Diego Herrera,Infrastructure,Intermediate
+T008,Lucia Navarro,Applications,Intermediate
+T009,Sebastian Ortiz,Security,Junior
+T010,Renata Silva,Workplace,Intermediate
+T011,Emilio Reyes,Service Desk,Intermediate
+T012,Andrea Castillo,Infrastructure,Senior
+T013,Gabriel Mendoza,Applications,Intermediate
+T014,Paula Rojas,Security,Senior
+T015,Nicolas Vega,Workplace,Intermediate
+T016,Elena Morales,Service Desk,Junior
+T017,Javier Luna,Infrastructure,Intermediate
+T018,Mariana Soto,Applications,Junior
+T019,Adrian Campos,Security,Senior
+T020,Isabella Ruiz,Workplace,Intermediate
+T021,Samuel Diaz,Service Desk,Intermediate
+T022,Regina Perez,Infrastructure,Intermediate
+T023,Leonardo Fuentes,Applications,Senior
+T024,Natalia Romero,Security,Senior
+T025,Martin Aguilar,Workplace,Intermediate
+T026,Ximena Delgado,Service Desk,Junior
+T027,Pablo Medina,Infrastructure,Intermediate
+T028,Fernanda Ibarra,Applications,Junior
+T029,Carlos Varela,Security,Junior
+T030,Daniela Ponce,Workplace,Intermediate

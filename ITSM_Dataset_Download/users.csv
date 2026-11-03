@@ -1,0 +1,601 @@
+﻿user_id,department_id,user_type,office_location
+U00001,D010,Manager,Puebla
+U00002,D008,Employee,Guadalajara
+U00003,D004,Employee,Queretaro
+U00004,D010,Manager,Guadalajara
+U00005,D005,Employee,Queretaro
+U00006,D004,Employee,Monterrey
+U00007,D010,Employee,Mexico City
+U00008,D004,Manager,Puebla
+U00009,D001,Employee,Mexico City
+U00010,D005,Contractor,Puebla
+U00011,D008,Employee,Mexico City
+U00012,D002,Contractor,Guadalajara
+U00013,D005,Manager,Puebla
+U00014,D002,Employee,Queretaro
+U00015,D007,Manager,Monterrey
+U00016,D005,Manager,Mexico City
+U00017,D004,Contractor,Guadalajara
+U00018,D003,Employee,Queretaro
+U00019,D006,Employee,Puebla
+U00020,D007,Employee,Mexico City
+U00021,D010,Employee,Guadalajara
+U00022,D005,Employee,Guadalajara
+U00023,D002,Employee,Mexico City
+U00024,D009,Employee,Queretaro
+U00025,D007,Employee,Puebla
+U00026,D008,Employee,Mexico City
+U00027,D001,Manager,Puebla
+U00028,D004,Manager,Monterrey
+U00029,D008,Employee,Mexico City
+U00030,D009,Employee,Monterrey
+U00031,D005,Contractor,Mexico City
+U00032,D009,Employee,Guadalajara
+U00033,D009,Employee,Queretaro
+U00034,D004,Employee,Puebla
+U00035,D009,Employee,Mexico City
+U00036,D003,Employee,Queretaro
+U00037,D003,Manager,Monterrey
+U00038,D007,Employee,Queretaro
+U00039,D007,Employee,Puebla
+U00040,D002,Executive,Guadalajara
+U00041,D009,Manager,Monterrey
+U00042,D002,Employee,Monterrey
+U00043,D009,Employee,Puebla
+U00044,D001,Employee,Guadalajara
+U00045,D008,Employee,Guadalajara
+U00046,D008,Employee,Guadalajara
+U00047,D008,Contractor,Guadalajara
+U00048,D007,Employee,Mexico City
+U00049,D005,Employee,Mexico City
+U00050,D008,Manager,Queretaro
+U00051,D003,Employee,Mexico City
+U00052,D008,Contractor,Queretaro
+U00053,D006,Manager,Mexico City
+U00054,D005,Employee,Puebla
+U00055,D006,Employee,Guadalajara
+U00056,D006,Contractor,Monterrey
+U00057,D001,Employee,Guadalajara
+U00058,D002,Contractor,Monterrey
+U00059,D003,Employee,Monterrey
+U00060,D002,Manager,Monterrey
+U00061,D005,Employee,Guadalajara
+U00062,D007,Employee,Monterrey
+U00063,D007,Employee,Queretaro
+U00064,D005,Employee,Monterrey
+U00065,D009,Employee,Guadalajara
+U00066,D006,Employee,Mexico City
+U00067,D001,Manager,Guadalajara
+U00068,D008,Employee,Mexico City
+U00069,D006,Employee,Mexico City
+U00070,D007,Employee,Queretaro
+U00071,D006,Employee,Mexico City
+U00072,D006,Executive,Monterrey
+U00073,D001,Manager,Queretaro
+U00074,D006,Employee,Queretaro
+U00075,D008,Contractor,Mexico City
+U00076,D004,Manager,Mexico City
+U00077,D007,Employee,Guadalajara
+U00078,D001,Manager,Monterrey
+U00079,D004,Employee,Queretaro
+U00080,D005,Contractor,Guadalajara
+U00081,D010,Employee,Mexico City
+U00082,D003,Employee,Guadalajara
+U00083,D003,Employee,Queretaro
+U00084,D005,Executive,Mexico City
+U00085,D010,Employee,Guadalajara
+U00086,D009,Employee,Mexico City
+U00087,D001,Employee,Mexico City
+U00088,D003,Manager,Queretaro
+U00089,D009,Employee,Mexico City
+U00090,D001,Executive,Guadalajara
+U00091,D009,Employee,Queretaro
+U00092,D003,Employee,Puebla
+U00093,D010,Employee,Mexico City
+U00094,D003,Employee,Monterrey
+U00095,D005,Employee,Queretaro
+U00096,D007,Manager,Monterrey
+U00097,D002,Employee,Monterrey
+U00098,D006,Manager,Monterrey
+U00099,D006,Employee,Puebla
+U00100,D008,Manager,Mexico City
+U00101,D010,Contractor,Queretaro
+U00102,D007,Manager,Queretaro
+U00103,D005,Employee,Mexico City
+U00104,D005,Manager,Queretaro
+U00105,D005,Employee,Queretaro
+U00106,D009,Employee,Puebla
+U00107,D004,Employee,Guadalajara
+U00108,D002,Employee,Monterrey
+U00109,D004,Manager,Queretaro
+U00110,D001,Employee,Mexico City
+U00111,D002,Manager,Queretaro
+U00112,D001,Employee,Queretaro
+U00113,D008,Manager,Puebla
+U00114,D008,Employee,Guadalajara
+U00115,D007,Employee,Monterrey
+U00116,D005,Employee,Mexico City
+U00117,D008,Contractor,Queretaro
+U00118,D002,Employee,Guadalajara
+U00119,D010,Employee,Mexico City
+U00120,D006,Employee,Puebla
+U00121,D010,Employee,Puebla
+U00122,D002,Executive,Puebla
+U00123,D005,Employee,Mexico City
+U00124,D007,Employee,Puebla
+U00125,D005,Employee,Puebla
+U00126,D005,Employee,Puebla
+U00127,D002,Contractor,Queretaro
+U00128,D004,Employee,Guadalajara
+U00129,D003,Manager,Guadalajara
+U00130,D004,Employee,Queretaro
+U00131,D007,Employee,Monterrey
+U00132,D007,Employee,Monterrey
+U00133,D007,Contractor,Guadalajara
+U00134,D004,Employee,Puebla
+U00135,D010,Employee,Puebla
+U00136,D001,Employee,Mexico City
+U00137,D004,Employee,Monterrey
+U00138,D002,Contractor,Queretaro
+U00139,D004,Employee,Guadalajara
+U00140,D010,Employee,Guadalajara
+U00141,D004,Employee,Queretaro
+U00142,D010,Employee,Mexico City
+U00143,D005,Employee,Guadalajara
+U00144,D007,Employee,Monterrey
+U00145,D005,Employee,Puebla
+U00146,D003,Employee,Mexico City
+U00147,D008,Employee,Monterrey
+U00148,D010,Employee,Mexico City
+U00149,D003,Employee,Puebla
+U00150,D008,Employee,Puebla
+U00151,D003,Employee,Monterrey
+U00152,D008,Employee,Guadalajara
+U00153,D008,Employee,Mexico City
+U00154,D005,Employee,Queretaro
+U00155,D008,Employee,Puebla
+U00156,D003,Employee,Guadalajara
+U00157,D001,Employee,Monterrey
+U00158,D001,Employee,Puebla
+U00159,D005,Employee,Puebla
+U00160,D010,Employee,Monterrey
+U00161,D002,Employee,Guadalajara
+U00162,D005,Employee,Puebla
+U00163,D008,Employee,Puebla
+U00164,D003,Employee,Monterrey
+U00165,D008,Manager,Mexico City
+U00166,D004,Employee,Monterrey
+U00167,D009,Employee,Puebla
+U00168,D006,Employee,Queretaro
+U00169,D006,Employee,Monterrey
+U00170,D002,Employee,Guadalajara
+U00171,D005,Manager,Monterrey
+U00172,D009,Executive,Mexico City
+U00173,D001,Contractor,Mexico City
+U00174,D008,Employee,Puebla
+U00175,D005,Employee,Queretaro
+U00176,D008,Manager,Queretaro
+U00177,D007,Employee,Monterrey
+U00178,D005,Manager,Mexico City
+U00179,D004,Employee,Queretaro
+U00180,D007,Employee,Monterrey
+U00181,D002,Employee,Guadalajara
+U00182,D006,Manager,Queretaro
+U00183,D001,Employee,Puebla
+U00184,D007,Employee,Puebla
+U00185,D007,Employee,Guadalajara
+U00186,D001,Employee,Queretaro
+U00187,D008,Employee,Monterrey
+U00188,D005,Manager,Monterrey
+U00189,D008,Employee,Puebla
+U00190,D001,Manager,Puebla
+U00191,D002,Manager,Mexico City
+U00192,D005,Employee,Guadalajara
+U00193,D002,Employee,Guadalajara
+U00194,D004,Employee,Queretaro
+U00195,D007,Employee,Puebla
+U00196,D002,Employee,Guadalajara
+U00197,D007,Contractor,Puebla
+U00198,D002,Contractor,Puebla
+U00199,D002,Manager,Guadalajara
+U00200,D006,Employee,Monterrey
+U00201,D008,Employee,Queretaro
+U00202,D002,Employee,Monterrey
+U00203,D003,Employee,Mexico City
+U00204,D010,Employee,Puebla
+U00205,D010,Employee,Monterrey
+U00206,D006,Employee,Monterrey
+U00207,D005,Employee,Puebla
+U00208,D004,Employee,Queretaro
+U00209,D007,Employee,Guadalajara
+U00210,D006,Manager,Monterrey
+U00211,D003,Contractor,Mexico City
+U00212,D001,Employee,Puebla
+U00213,D002,Manager,Monterrey
+U00214,D010,Contractor,Guadalajara
+U00215,D005,Employee,Puebla
+U00216,D005,Employee,Monterrey
+U00217,D005,Employee,Monterrey
+U00218,D008,Employee,Monterrey
+U00219,D001,Manager,Guadalajara
+U00220,D001,Employee,Mexico City
+U00221,D003,Employee,Queretaro
+U00222,D005,Employee,Mexico City
+U00223,D007,Employee,Guadalajara
+U00224,D005,Executive,Puebla
+U00225,D005,Employee,Mexico City
+U00226,D010,Employee,Puebla
+U00227,D002,Employee,Puebla
+U00228,D006,Employee,Puebla
+U00229,D006,Employee,Guadalajara
+U00230,D005,Employee,Mexico City
+U00231,D009,Employee,Queretaro
+U00232,D003,Employee,Guadalajara
+U00233,D010,Manager,Queretaro
+U00234,D004,Employee,Mexico City
+U00235,D006,Employee,Mexico City
+U00236,D006,Employee,Puebla
+U00237,D009,Manager,Queretaro
+U00238,D005,Employee,Queretaro
+U00239,D003,Employee,Puebla
+U00240,D001,Employee,Guadalajara
+U00241,D004,Employee,Queretaro
+U00242,D009,Manager,Puebla
+U00243,D001,Employee,Mexico City
+U00244,D009,Manager,Mexico City
+U00245,D006,Manager,Queretaro
+U00246,D002,Employee,Guadalajara
+U00247,D004,Executive,Puebla
+U00248,D006,Employee,Mexico City
+U00249,D004,Manager,Guadalajara
+U00250,D002,Employee,Guadalajara
+U00251,D007,Employee,Guadalajara
+U00252,D007,Employee,Puebla
+U00253,D002,Employee,Queretaro
+U00254,D003,Employee,Queretaro
+U00255,D003,Executive,Puebla
+U00256,D007,Employee,Guadalajara
+U00257,D008,Employee,Queretaro
+U00258,D008,Employee,Monterrey
+U00259,D010,Employee,Monterrey
+U00260,D008,Employee,Puebla
+U00261,D004,Contractor,Puebla
+U00262,D002,Employee,Queretaro
+U00263,D007,Employee,Monterrey
+U00264,D010,Employee,Puebla
+U00265,D010,Employee,Puebla
+U00266,D003,Employee,Guadalajara
+U00267,D003,Employee,Guadalajara
+U00268,D001,Employee,Puebla
+U00269,D002,Contractor,Mexico City
+U00270,D006,Employee,Guadalajara
+U00271,D006,Employee,Puebla
+U00272,D004,Manager,Queretaro
+U00273,D004,Executive,Monterrey
+U00274,D009,Manager,Guadalajara
+U00275,D005,Contractor,Monterrey
+U00276,D009,Manager,Puebla
+U00277,D010,Manager,Monterrey
+U00278,D004,Employee,Mexico City
+U00279,D003,Manager,Monterrey
+U00280,D010,Employee,Monterrey
+U00281,D007,Employee,Puebla
+U00282,D003,Employee,Queretaro
+U00283,D007,Contractor,Queretaro
+U00284,D006,Contractor,Puebla
+U00285,D010,Employee,Guadalajara
+U00286,D003,Manager,Monterrey
+U00287,D010,Manager,Mexico City
+U00288,D010,Employee,Queretaro
+U00289,D002,Employee,Queretaro
+U00290,D002,Employee,Queretaro
+U00291,D006,Manager,Guadalajara
+U00292,D001,Employee,Guadalajara
+U00293,D003,Contractor,Queretaro
+U00294,D005,Employee,Monterrey
+U00295,D010,Contractor,Puebla
+U00296,D010,Employee,Monterrey
+U00297,D002,Manager,Monterrey
+U00298,D009,Employee,Puebla
+U00299,D001,Employee,Queretaro
+U00300,D008,Manager,Guadalajara
+U00301,D009,Contractor,Queretaro
+U00302,D009,Manager,Guadalajara
+U00303,D003,Employee,Monterrey
+U00304,D009,Employee,Queretaro
+U00305,D002,Employee,Queretaro
+U00306,D006,Employee,Queretaro
+U00307,D005,Employee,Guadalajara
+U00308,D004,Employee,Queretaro
+U00309,D001,Manager,Queretaro
+U00310,D008,Manager,Queretaro
+U00311,D004,Manager,Mexico City
+U00312,D007,Manager,Puebla
+U00313,D005,Employee,Queretaro
+U00314,D004,Employee,Puebla
+U00315,D009,Employee,Guadalajara
+U00316,D001,Manager,Puebla
+U00317,D008,Employee,Mexico City
+U00318,D008,Employee,Monterrey
+U00319,D004,Employee,Puebla
+U00320,D003,Employee,Monterrey
+U00321,D001,Employee,Puebla
+U00322,D010,Executive,Guadalajara
+U00323,D010,Employee,Puebla
+U00324,D003,Employee,Puebla
+U00325,D001,Manager,Puebla
+U00326,D002,Employee,Guadalajara
+U00327,D001,Manager,Guadalajara
+U00328,D009,Employee,Guadalajara
+U00329,D009,Employee,Monterrey
+U00330,D002,Employee,Monterrey
+U00331,D008,Employee,Guadalajara
+U00332,D002,Executive,Monterrey
+U00333,D004,Employee,Guadalajara
+U00334,D006,Employee,Guadalajara
+U00335,D008,Employee,Puebla
+U00336,D009,Employee,Queretaro
+U00337,D001,Manager,Guadalajara
+U00338,D002,Contractor,Queretaro
+U00339,D003,Employee,Monterrey
+U00340,D004,Employee,Mexico City
+U00341,D010,Employee,Guadalajara
+U00342,D008,Employee,Mexico City
+U00343,D004,Contractor,Mexico City
+U00344,D010,Employee,Guadalajara
+U00345,D005,Employee,Monterrey
+U00346,D006,Employee,Puebla
+U00347,D005,Executive,Mexico City
+U00348,D002,Employee,Queretaro
+U00349,D010,Employee,Guadalajara
+U00350,D001,Employee,Mexico City
+U00351,D002,Employee,Puebla
+U00352,D003,Employee,Puebla
+U00353,D003,Employee,Puebla
+U00354,D002,Employee,Mexico City
+U00355,D001,Employee,Mexico City
+U00356,D007,Employee,Guadalajara
+U00357,D010,Employee,Monterrey
+U00358,D002,Contractor,Queretaro
+U00359,D003,Manager,Guadalajara
+U00360,D006,Employee,Mexico City
+U00361,D010,Employee,Queretaro
+U00362,D007,Executive,Mexico City
+U00363,D008,Employee,Mexico City
+U00364,D006,Employee,Monterrey
+U00365,D005,Executive,Monterrey
+U00366,D002,Employee,Puebla
+U00367,D009,Manager,Queretaro
+U00368,D009,Employee,Queretaro
+U00369,D001,Employee,Guadalajara
+U00370,D008,Employee,Queretaro
+U00371,D001,Employee,Puebla
+U00372,D008,Employee,Mexico City
+U00373,D009,Employee,Queretaro
+U00374,D002,Manager,Mexico City
+U00375,D005,Employee,Monterrey
+U00376,D002,Employee,Puebla
+U00377,D006,Manager,Guadalajara
+U00378,D010,Manager,Guadalajara
+U00379,D001,Employee,Monterrey
+U00380,D004,Employee,Queretaro
+U00381,D010,Contractor,Guadalajara
+U00382,D004,Employee,Puebla
+U00383,D002,Manager,Monterrey
+U00384,D005,Executive,Mexico City
+U00385,D006,Manager,Puebla
+U00386,D007,Employee,Queretaro
+U00387,D004,Employee,Monterrey
+U00388,D010,Employee,Mexico City
+U00389,D006,Employee,Mexico City
+U00390,D003,Contractor,Monterrey
+U00391,D010,Employee,Monterrey
+U00392,D010,Employee,Monterrey
+U00393,D005,Employee,Guadalajara
+U00394,D001,Contractor,Monterrey
+U00395,D006,Employee,Guadalajara
+U00396,D006,Employee,Puebla
+U00397,D002,Employee,Puebla
+U00398,D007,Employee,Puebla
+U00399,D009,Employee,Mexico City
+U00400,D002,Employee,Queretaro
+U00401,D008,Employee,Mexico City
+U00402,D002,Employee,Queretaro
+U00403,D008,Employee,Mexico City
+U00404,D005,Employee,Monterrey
+U00405,D001,Employee,Mexico City
+U00406,D010,Employee,Mexico City
+U00407,D002,Employee,Puebla
+U00408,D006,Employee,Puebla
+U00409,D002,Employee,Mexico City
+U00410,D010,Employee,Queretaro
+U00411,D008,Employee,Guadalajara
+U00412,D009,Employee,Guadalajara
+U00413,D005,Manager,Guadalajara
+U00414,D005,Employee,Monterrey
+U00415,D007,Employee,Mexico City
+U00416,D008,Employee,Monterrey
+U00417,D009,Employee,Guadalajara
+U00418,D001,Employee,Mexico City
+U00419,D007,Manager,Guadalajara
+U00420,D002,Manager,Puebla
+U00421,D003,Employee,Puebla
+U00422,D009,Employee,Guadalajara
+U00423,D003,Employee,Guadalajara
+U00424,D008,Employee,Puebla
+U00425,D005,Employee,Puebla
+U00426,D003,Employee,Queretaro
+U00427,D004,Employee,Queretaro
+U00428,D006,Contractor,Queretaro
+U00429,D008,Employee,Queretaro
+U00430,D007,Employee,Monterrey
+U00431,D010,Employee,Guadalajara
+U00432,D009,Employee,Guadalajara
+U00433,D008,Employee,Guadalajara
+U00434,D007,Employee,Puebla
+U00435,D003,Executive,Puebla
+U00436,D005,Employee,Queretaro
+U00437,D002,Employee,Mexico City
+U00438,D004,Employee,Monterrey
+U00439,D010,Employee,Guadalajara
+U00440,D005,Employee,Queretaro
+U00441,D002,Employee,Guadalajara
+U00442,D007,Employee,Mexico City
+U00443,D010,Employee,Monterrey
+U00444,D009,Manager,Queretaro
+U00445,D003,Employee,Queretaro
+U00446,D005,Manager,Mexico City
+U00447,D006,Employee,Guadalajara
+U00448,D003,Employee,Mexico City
+U00449,D003,Manager,Guadalajara
+U00450,D003,Manager,Monterrey
+U00451,D010,Employee,Guadalajara
+U00452,D008,Executive,Mexico City
+U00453,D009,Employee,Monterrey
+U00454,D009,Employee,Mexico City
+U00455,D010,Contractor,Guadalajara
+U00456,D002,Employee,Mexico City
+U00457,D009,Manager,Mexico City
+U00458,D001,Employee,Monterrey
+U00459,D005,Manager,Queretaro
+U00460,D006,Employee,Puebla
+U00461,D004,Employee,Mexico City
+U00462,D002,Employee,Mexico City
+U00463,D002,Employee,Guadalajara
+U00464,D009,Employee,Puebla
+U00465,D004,Employee,Puebla
+U00466,D004,Employee,Queretaro
+U00467,D010,Employee,Guadalajara
+U00468,D002,Employee,Mexico City
+U00469,D010,Manager,Mexico City
+U00470,D010,Employee,Mexico City
+U00471,D006,Manager,Mexico City
+U00472,D002,Employee,Queretaro
+U00473,D002,Executive,Guadalajara
+U00474,D003,Employee,Queretaro
+U00475,D006,Employee,Monterrey
+U00476,D002,Employee,Monterrey
+U00477,D005,Employee,Monterrey
+U00478,D002,Employee,Queretaro
+U00479,D006,Employee,Mexico City
+U00480,D001,Contractor,Mexico City
+U00481,D008,Employee,Monterrey
+U00482,D001,Employee,Guadalajara
+U00483,D002,Contractor,Monterrey
+U00484,D002,Employee,Puebla
+U00485,D009,Employee,Monterrey
+U00486,D001,Executive,Guadalajara
+U00487,D005,Executive,Guadalajara
+U00488,D006,Employee,Puebla
+U00489,D006,Employee,Guadalajara
+U00490,D007,Employee,Monterrey
+U00491,D009,Employee,Monterrey
+U00492,D004,Employee,Puebla
+U00493,D009,Employee,Puebla
+U00494,D004,Employee,Monterrey
+U00495,D010,Manager,Guadalajara
+U00496,D006,Employee,Guadalajara
+U00497,D008,Employee,Monterrey
+U00498,D009,Employee,Guadalajara
+U00499,D008,Manager,Puebla
+U00500,D009,Employee,Guadalajara
+U00501,D006,Employee,Puebla
+U00502,D001,Employee,Puebla
+U00503,D005,Employee,Queretaro
+U00504,D002,Employee,Mexico City
+U00505,D009,Manager,Puebla
+U00506,D003,Employee,Mexico City
+U00507,D003,Manager,Guadalajara
+U00508,D003,Contractor,Mexico City
+U00509,D007,Employee,Mexico City
+U00510,D006,Employee,Mexico City
+U00511,D010,Employee,Mexico City
+U00512,D005,Manager,Queretaro
+U00513,D003,Employee,Mexico City
+U00514,D001,Employee,Guadalajara
+U00515,D001,Employee,Puebla
+U00516,D004,Executive,Queretaro
+U00517,D010,Employee,Queretaro
+U00518,D006,Employee,Mexico City
+U00519,D009,Employee,Queretaro
+U00520,D002,Contractor,Puebla
+U00521,D001,Employee,Mexico City
+U00522,D009,Employee,Monterrey
+U00523,D002,Manager,Queretaro
+U00524,D001,Executive,Guadalajara
+U00525,D005,Employee,Mexico City
+U00526,D010,Employee,Queretaro
+U00527,D007,Manager,Queretaro
+U00528,D001,Manager,Queretaro
+U00529,D009,Employee,Queretaro
+U00530,D009,Employee,Queretaro
+U00531,D009,Manager,Monterrey
+U00532,D010,Manager,Mexico City
+U00533,D003,Manager,Puebla
+U00534,D010,Employee,Guadalajara
+U00535,D004,Employee,Monterrey
+U00536,D009,Executive,Puebla
+U00537,D006,Manager,Queretaro
+U00538,D008,Manager,Guadalajara
+U00539,D007,Employee,Guadalajara
+U00540,D007,Employee,Puebla
+U00541,D007,Manager,Mexico City
+U00542,D008,Employee,Monterrey
+U00543,D008,Contractor,Puebla
+U00544,D002,Employee,Monterrey
+U00545,D009,Employee,Guadalajara
+U00546,D006,Executive,Queretaro
+U00547,D004,Employee,Guadalajara
+U00548,D006,Employee,Puebla
+U00549,D010,Employee,Monterrey
+U00550,D009,Employee,Mexico City
+U00551,D009,Employee,Monterrey
+U00552,D005,Employee,Mexico City
+U00553,D008,Contractor,Queretaro
+U00554,D004,Employee,Puebla
+U00555,D007,Employee,Guadalajara
+U00556,D007,Employee,Monterrey
+U00557,D003,Employee,Puebla
+U00558,D003,Employee,Guadalajara
+U00559,D001,Employee,Guadalajara
+U00560,D002,Employee,Monterrey
+U00561,D005,Employee,Guadalajara
+U00562,D005,Contractor,Puebla
+U00563,D002,Employee,Mexico City
+U00564,D005,Employee,Queretaro
+U00565,D007,Manager,Guadalajara
+U00566,D003,Executive,Monterrey
+U00567,D004,Employee,Mexico City
+U00568,D004,Employee,Guadalajara
+U00569,D006,Employee,Puebla
+U00570,D004,Employee,Guadalajara
+U00571,D008,Employee,Mexico City
+U00572,D004,Employee,Monterrey
+U00573,D005,Employee,Mexico City
+U00574,D004,Employee,Guadalajara
+U00575,D002,Contractor,Monterrey
+U00576,D007,Employee,Monterrey
+U00577,D003,Employee,Puebla
+U00578,D003,Employee,Puebla
+U00579,D008,Employee,Queretaro
+U00580,D010,Employee,Mexico City
+U00581,D007,Manager,Guadalajara
+U00582,D010,Manager,Mexico City
+U00583,D009,Executive,Mexico City
+U00584,D005,Contractor,Guadalajara
+U00585,D008,Contractor,Monterrey
+U00586,D004,Contractor,Queretaro
+U00587,D005,Employee,Puebla
+U00588,D006,Employee,Puebla
+U00589,D010,Employee,Puebla
+U00590,D009,Employee,Mexico City
+U00591,D005,Employee,Queretaro
+U00592,D007,Manager,Queretaro
+U00593,D003,Employee,Mexico City
+U00594,D009,Employee,Monterrey
+U00595,D006,Employee,Queretaro
+U00596,D006,Employee,Monterrey
+U00597,D008,Employee,Queretaro
+U00598,D007,Manager,Queretaro
+U00599,D001,Employee,Monterrey
+U00600,D003,Manager,Mexico City
